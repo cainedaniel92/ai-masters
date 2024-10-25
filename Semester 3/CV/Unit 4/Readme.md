@@ -1,4 +1,4 @@
-> The various topics inside unit 3 has been sorted into categories.
+> The various topics inside unit 4 has been sorted into categories.
 ---
 
 ### **Image Feature Extraction**
