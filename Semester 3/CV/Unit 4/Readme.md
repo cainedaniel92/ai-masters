@@ -19,43 +19,35 @@
 
 ### **Lab Work for Feature Extraction and Reduction**
 
-4. **Lab 10: Extracting Shape and Texture Features**:
-   - In this lab, you would use image processing libraries to segment an image, then apply methods to calculate features related to shape (e.g., contour analysis) and texture (e.g., GLCM).
-
-5. **Transform Domain Feature Extraction**:
+4. **Transform Domain Feature Extraction**:
    - Transform domain methods, like Fourier Transform or Wavelet Transform, analyze images in a frequency domain, capturing patterns that may not be visible in the spatial domain.
 
-6. **Feature Visualization**:
+5. **Feature Visualization**:
    - Visualizes features to assess patterns or clusters within the data.
    - Techniques like t-SNE or PCA can project high-dimensional features into 2D or 3D space for easier interpretation.
 
-7. **Feature Reduction and Scaling**:
+6. **Feature Reduction and Scaling**:
    - **Reduction**: Techniques like PCA or LDA reduce the dimensionality of features, retaining only the most important ones.
    - **Scaling**: Normalizes features (e.g., standardizing to zero mean and unit variance) to improve model performance and convergence.
 
-8. **Lab 11: Performing Feature Reduction**:
-   - This lab involves applying algorithms like PCA on extracted features to select the most informative ones, reducing computational load without sacrificing accuracy.
 
 ---
 
 ### **Machine Learning Model Building and Evaluation**
 
-9. **Overview of Machine Learning Models**:
+7. **Overview of Machine Learning Models**:
    - Covers different model types for image-based tasks:
      - **Classification models**: SVM, Decision Trees, KNN.
      - **Ensemble methods**: Random Forest, Gradient Boosting.
      - **Neural networks**: CNNs for image-specific tasks.
 
-10. **Machine Learning Model Building on Extracted Features**:
+8. **Machine Learning Model Building on Extracted Features**:
     - The process of training models on image features (shape, texture) to create predictive systems.
     - Models are built by feeding extracted features into ML algorithms for supervised learning tasks.
 
-11. **ML Model Evaluation and Tuning**:
+9. **ML Model Evaluation and Tuning**:
     - **Evaluation Metrics**: Accuracy, precision, recall, F1-score, and ROC-AUC.
     - **Tuning**: Optimizing model hyperparameters using techniques like Grid Search or Random Search.
 
-12. **Lab 12: Building a Predictive Model on Extracted Features**:
-    - In this lab, you’ll use the extracted features to train, evaluate, and optimize an ML model.
-    - Steps include feature selection, model training, hyperparameter tuning, and evaluating model performance.
 
 ---
