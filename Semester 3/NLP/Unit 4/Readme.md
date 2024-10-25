@@ -1,4 +1,4 @@
-> The various topics inside unit 3 has been sorted into 3 categories. 
+> The various topics inside unit 4 has been sorted into 3 categories. 
 ---
 
 ### **LSTM (Long Short-Term Memory) Networks**
