@@ -1,5 +1,3 @@
----
-
 ### **Convolutional Neural Networks (CNNs)**
 
 1. **Convolution Neural Network (CNN)**:
